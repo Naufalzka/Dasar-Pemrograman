@@ -15,7 +15,7 @@ Hasil Konversi:
 ## Hasil
  - User melakukan input 50 Ribu detik dan setelah di konversi maka hasilnya menjadi 13 Jam, 53 Menit, 20 Detik.
  
-<img width="406" height="109" alt="image" src="https://github.com/user-attachments/assets/6778960c-f81a-438b-9c9e-64a0418f3758" />
+<img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/image.png" />
 
 ## Penjelasan
 Program membagi total detik jadi satuan waktu
