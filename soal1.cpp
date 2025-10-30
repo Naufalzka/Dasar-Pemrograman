@@ -15,7 +15,7 @@ int main(){
     detik = totalDetik % 60;
 
 
-    cout << d << " detik = "; 
+    cout << totalDetik << " detik = "; 
     cout << jam << " Jam, "; 
     cout << menit << " Menit, "; 
     cout << detik << " Detik" << endl;
