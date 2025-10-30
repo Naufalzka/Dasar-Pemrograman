@@ -2,17 +2,17 @@
 using namespace std;
 
 int main(){
-    int d;
+    int totalDetik;
     cout << "Masukkan waktu dalam detik: ";
-    cin >> d;
+    cin >> totalDetik;
 
     int jam;
     int menit;
     int detik;
 
-    jam = (d / 3600); // satu jam = 3600 detik
-    menit = (d % 3600) / 60; // satu menit = 60 detik, sisa hasil bagi (%) dari jam kemudian dibagi 60 detik.
-    detik = d % 60;
+    jam = (totalDetik / 3600); // satu jam = 3600 detik
+    menit = (totalDetik % 3600) / 60; // satu menit = 60 detik, sisa hasil bagi (%) dari jam kemudian dibagi 60 detik.
+    detik = totalDetik % 60;
 
 
     cout << d << " detik = "; 
