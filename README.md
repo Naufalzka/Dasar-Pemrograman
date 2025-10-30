@@ -1,4 +1,4 @@
-# Dasar-Pemrograman
+# Uji Kompetensi DDP
 Buat program untuk dapat konversi suatu bilangan ke dalam jam menit dan detik.
 Contoh output program:
 Masukkan bilangan >1 (satuan detik)
