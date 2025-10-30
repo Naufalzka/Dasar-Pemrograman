@@ -14,9 +14,11 @@ Hasil Konversi:
 
 ## Hasil
  - User melakukan input 50 Ribu detik dan setelah di konversi maka hasilnya menjadi 13 Jam, 53 Menit, 20 Detik.
- 
-<img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/image.png" />
 
+ <center>
+<img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/Screenshot%202025-10-30%20130113.png" />
+ </center>
+ 
 ## Penjelasan
 Program membagi total detik jadi satuan waktu
 
@@ -34,7 +36,7 @@ Hasil Konversi:
 ## Hasil
  - User melakukan input 100 Ribu detik dan setelah di konversi maka hasilnya menjadi 1 Hari, 3 Jam, 46 Menit, 40 Detik.
 
-<img width="478" height="132" alt="image" src="https://github.com/user-attachments/assets/4359f0d3-e96b-40f9-a0df-9d7acf605836" />
+<img width="478" height="132" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/image.png" />
 
 ## Penjelasan
 
