@@ -2,21 +2,21 @@
 using namespace std;
 
 int main(){
-    int d;
+    int totalDetik;
     cout << "Masukkan waktu dalam detik: ";
-    cin >> d;
+    cin >> totalDetik;
 
     int hari;
     int jam;
     int menit;
     int detik;
 
-    hari = d / 86400; //satu hari = 86400 detik
-    jam = (d % 86400) / 3600; //satu jam = 3600  detik, sisa hasil bagi (%) dari hari kemudian dibagi 3600 detik.
-    menit = (d % 3600) / 60; //satu menit = 60 detik, sisa hasil bagi (%) dari jam kemudian dibagi 60 detik.
-    detik = d % 60;
+    hari = totalDetik / 86400; //satu hari = 86400 detik
+    jam = (totalDetik % 86400) / 3600; //satu jam = 3600  detik, sisa hasil bagi (%) dari hari kemudian dibagi 3600 detik.
+    menit = (totalDetik % 3600) / 60; //satu menit = 60 detik, sisa hasil bagi (%) dari jam kemudian dibagi 60 detik.
+    detik = totalDetik % 60;
 
-    cout << d << " detik = "; 
+    cout << totalDetik << " detik = "; 
     cout << hari << " Hari, "; 
     cout << jam << " Jam, "; 
     cout << menit << " Menit, "; 
