@@ -32,6 +32,7 @@ Hasil Konversi:
 ## Hasil
  - User melakukan input 100 Ribu detik dan setelah di konversi maka hasilnya menjadi 1 Hari, 3 Jam, 46 Menit, 40 Detik.
 
+<p align="center">
 <img width="478" height="132" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/image.png" />
-
+</p>
  
