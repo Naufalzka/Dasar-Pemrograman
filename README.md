@@ -16,7 +16,7 @@ Hasil Konversi:
  - User melakukan input 50 Ribu detik dan setelah di konversi maka hasilnya menjadi 13 Jam, 53 Menit, 20 Detik.
 
 <p align="center">
-<img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/Screenshot%202025-10-30%20130113.png" />
+<img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Image/blob/main/Image%201%20Konversi%20Waktu%20Naufal%20Azka.png" />
 </p>
 ---
 
@@ -33,6 +33,6 @@ Hasil Konversi:
  - User melakukan input 100 Ribu detik dan setelah di konversi maka hasilnya menjadi 1 Hari, 3 Jam, 46 Menit, 40 Detik.
 
 <p align="center">
-<img width="478" height="132" alt="image" src="https://github.com/Naufalzka/Dasar-Pemrograman/blob/main/image.png" />
+<img width="478" height="132" alt="image" src="https://github.com/Naufalzka/Image/blob/main/Image%202%20Konversi%20Waktu%20Naufal%20Azka.png" />
 </p>
  
