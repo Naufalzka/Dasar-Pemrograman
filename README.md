@@ -13,7 +13,7 @@ Hasil Konversi:
 ```
 
 ## Hasil
- - User melakukan input 50 Ribu detik dan setelah di konversi maka hasilnya menjadi 13 Jam, 53 Menit, 20 Detik.
+ - User melakukan input 50 Ribu detik dan setelah di konversi maka hasilnya menjadi 13 Jam, 53 Menit, 20 Detik. Disini saya menambah sedikit fitur pada program dengan menggunakan do while untuk menanyakan user apakah ingin konversi ulang (y) atau tidak (n), jika tidak maka program akan selesai.
 
 <p align="center">
 <img width="406" height="109" alt="image" src="https://github.com/Naufalzka/Image/blob/main/Image%201%20Konversi%20Waktu%20Naufal%20Azka.png" />
@@ -30,7 +30,7 @@ Hasil Konversi:
 ```
 
 ## Hasil
- - User melakukan input 100 Ribu detik dan setelah di konversi maka hasilnya menjadi 1 Hari, 3 Jam, 46 Menit, 40 Detik.
+ - User melakukan input 100 Ribu detik dan setelah di konversi maka hasilnya menjadi 1 Hari, 3 Jam, 46 Menit, 40 Detik. saya menambah sedikit fitur pada program dengan menggunakan do while untuk menanyakan user apakah ingin konversi ulang (y) atau tidak (n), jika tidak maka program akan selesai.
 
 <p align="center">
 <img width="478" height="132" alt="image" src="https://github.com/Naufalzka/Image/blob/main/Image%202%20Konversi%20Waktu%20Naufal%20Azka.png" />
