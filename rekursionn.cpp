@@ -24,3 +24,4 @@ int main() {
     cout << "Hasil dari " << num1 << "^" << num2 << " = " << hasil << '\n';
     return 0;
 }
+
